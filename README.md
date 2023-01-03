@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshini4455
-- 👀 I’m interested in design websites and develop.
-- 🌱 I’m currently learning programming .
+- 👀 I’m working on machine learning and web development.
+- 🌱 I’m currently learning ML .
 - 💞️ I’m looking to collaborate with such team whose mindset match with me.
 - 📫 How to reach me harshinikotgirwar42@gmail.com it's my mail ID
 
